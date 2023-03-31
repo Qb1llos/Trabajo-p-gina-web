@@ -1,0 +1,432 @@
+.juego-screen-container {
+  min-height: 100vh;
+}
+.juego-screen-juego-screen {
+  width: 1512px;
+  height: 1367px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(40, 17, 97, 1);
+}
+.juego-screen-cuadrodesc {
+  top: 662px;
+  left: 45px;
+  width: 675px;
+  height: 589px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-caudrodesc {
+  top: 0px;
+  left: 0px;
+  width: 675px;
+  height: 589px;
+  position: absolute;
+  border-color: transparent;
+}
+.juego-screen-text {
+  top: 168px;
+  color: rgba(255, 255, 255, 1);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text05 {
+  top: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-link {
+  display: contents;
+}
+.juego-screen-botoncomprar {
+  top: 476px;
+  left: 233px;
+  width: 209px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-botoncomprar1 {
+  top: 0px;
+  left: 0px;
+  width: 209px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juego-screen-text07 {
+  top: 13px;
+  left: 45px;
+  color: rgba(40, 17, 97, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-cuadrorequisitos {
+  top: 662px;
+  left: 793px;
+  width: 675px;
+  height: 589px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 675px;
+  height: 589px;
+  position: absolute;
+  border-color: transparent;
+}
+.juego-screen-text09 {
+  top: 252px;
+  color: rgba(255, 255, 255, 1);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text14 {
+  top: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-tarjetagrfica {
+  top: 107px;
+  left: 241.46340942382812px;
+  width: 193px;
+  height: 130px;
+  position: absolute;
+  border-color: transparent;
+}
+.juego-screen-fotodeljuego {
+  top: 253px;
+  left: 45px;
+  width: 1423px;
+  height: 364px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 1423px;
+  height: 364px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juego-screen-text16 {
+  top: 125px;
+  left: 426px;
+  color: rgba(255, 255, 255, 1);
+  width: 572px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text18 {
+  top: 142px;
+  left: 363px;
+  color: rgba(255, 255, 255, 1);
+  width: 786px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Eras Bold ITC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-headliner {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 142px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-navlink {
+  display: contents;
+}
+.juego-screen-shopng-ww1 {
+  top: 54px;
+  left: 1434px;
+  width: 26px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juego-screen-perfil {
+  top: 55px;
+  left: 1348px;
+  width: 23px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-navlink1 {
+  display: contents;
+}
+.juego-screen-perfil1 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juego-screen-baradebusqueda {
+  top: 51px;
+  left: 595px;
+  width: 356px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 356px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.juego-screen-lupng-www2 {
+  top: 12.071428298950195px;
+  left: 18.101694107055664px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.juego-screen-text23 {
+  top: 11.142857551574707px;
+  left: 45.25423812866211px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text25 {
+  top: 65.00003051757812px;
+  left: 347.37847900390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text27 {
+  top: 65.00003051757812px;
+  left: 467.8565673828125px;
+  color: rgba(255, 255, 255, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-logo {
+  top: 0px;
+  left: 0px;
+  width: 229px;
+  height: 142px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juego-screen-ultcuadro {
+  right: 0px;
+  width: 1512px;
+  bottom: 0px;
+  display: flex;
+  padding: 11px 224px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(14, 8, 29, 0.6000000238418579);
+}
+.juego-screen-text29 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 400px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text31 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 400px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juego-screen-text33 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

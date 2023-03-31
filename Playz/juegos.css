@@ -1,0 +1,1067 @@
+.juegos-container {
+  min-height: 100vh;
+}
+.juegos-juegos {
+  width: 1512px;
+  height: 1709px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.juegos-ultcuadro {
+  left: -2px;
+  width: 1512px;
+  bottom: -2px;
+  display: flex;
+  padding: 11px 224px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(14, 8, 29, 0.6000000238418579);
+}
+.juegos-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 400px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 400px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-juegos1 {
+  top: 279px;
+  left: 44px;
+  width: 1518px;
+  height: 1316px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.juegos-tlou {
+  top: 0px;
+  left: 2px;
+  width: 662px;
+  height: 362px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 644px;
+  height: 362px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juegos-image2 {
+  top: 24.133333206176758px;
+  left: 38.162353515625px;
+  width: 307px;
+  height: 66px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-joelpng1 {
+  top: -52.9376335144043px;
+  left: 52.181175231933594px;
+  width: 558px;
+  height: 415px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-text06 {
+  top: 109.76773834228516px;
+  left: 26.479999542236328px;
+  color: rgba(255, 255, 255, 1);
+  width: 329px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-boton-irabutton {
+  top: 258.460205078125px;
+  left: 38.162353515625px;
+  width: 90px;
+  height: 33.47528076171875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-rectangle41 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.juegos-text11 {
+  top: 8.563444137573242px;
+  color: rgba(255, 255, 255, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-lista {
+  top: 261.5741882324219px;
+  left: 150.3129425048828px;
+  width: 150px;
+  height: 28.02581787109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-text13 {
+  top: 7.0064544677734375px;
+  left: 35.82588195800781px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-image21 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-gta {
+  top: 0px;
+  left: 742px;
+  width: 679px;
+  height: 362px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle5 {
+  top: 0px;
+  left: 35.77777862548828px;
+  width: 643px;
+  height: 362px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juegos-xddd1 {
+  top: 51.380645751953125px;
+  left: 0px;
+  width: 198px;
+  height: 311px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-image3 {
+  top: 6.227956771850586px;
+  left: 250.44444274902344px;
+  width: 215px;
+  height: 191px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-boton-irabutton1 {
+  top: 292.7139892578125px;
+  left: 546px;
+  width: 89px;
+  height: 33.475250244140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-rectangle42 {
+  top: 0px;
+  left: 0px;
+  width: 89px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.juegos-text15 {
+  top: 8.563436508178711px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-fortnite {
+  top: 328px;
+  left: 2px;
+  width: 725px;
+  height: 458px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle6 {
+  top: 95.80612182617188px;
+  left: 0px;
+  width: 641px;
+  height: 362px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juegos-image4 {
+  top: 88.7959213256836px;
+  left: 34.89304733276367px;
+  width: 297px;
+  height: 136px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-beasttt1 {
+  top: 0px;
+  left: 269.0641784667969px;
+  width: 456px;
+  height: 458px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-text17 {
+  top: 208.74830627441406px;
+  left: 37.994651794433594px;
+  color: rgba(255, 255, 255, 1);
+  width: 291px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-boton-irabutton2 {
+  top: 356.7414855957031px;
+  left: 48.074867248535156px;
+  width: 89px;
+  height: 33.493194580078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-rectangle43 {
+  top: 0px;
+  left: 0px;
+  width: 89px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.juegos-text19 {
+  top: 8.568026542663574px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-free {
+  top: 327.1428527832031px;
+  left: 48.074867248535156px;
+  width: 21px;
+  height: 21.809539794921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-free1 {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 22px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-lista1 {
+  top: 359.8571472167969px;
+  left: 155.85562133789062px;
+  width: 150px;
+  height: 28.040802001953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-text21 {
+  top: 7.010200500488281px;
+  left: 35.66844940185547px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-image211 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-fifa {
+  top: 370px;
+  left: 778px;
+  width: 740px;
+  height: 416px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle61 {
+  top: 53.7528076171875px;
+  left: 0px;
+  width: 641px;
+  height: 362px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juegos-cup1 {
+  left: 42px;
+  width: 598px;
+  bottom: 0px;
+  height: 362px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-image5 {
+  top: 0px;
+  left: 38.008384704589844px;
+  width: 386px;
+  height: 273px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-text23 {
+  top: 187.7453155517578px;
+  left: 85.324951171875px;
+  color: rgba(255, 255, 255, 1);
+  width: 291px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-boton-irabutton3 {
+  top: 314.7265930175781px;
+  left: 82.22222137451172px;
+  width: 89px;
+  height: 33.498138427734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-rectangle44 {
+  top: 0px;
+  left: 0px;
+  width: 89px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.juegos-text25 {
+  top: 8.569291114807129px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-lista2 {
+  top: 317.8426818847656px;
+  left: 206.33123779296875px;
+  width: 150px;
+  height: 28.044952392578125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-text27 {
+  top: 7.011238098144531px;
+  left: 35.68134307861328px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-image212 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-valorant {
+  top: 842px;
+  left: 0px;
+  width: 643px;
+  height: 411px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle3 {
+  top: 26.032629013061523px;
+  left: 0px;
+  width: 643px;
+  height: 367px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juegos-phoenix {
+  top: -50.48752212524414px;
+  left: 326.5538024902344px;
+  width: 501px;
+  height: 461px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-fade1 {
+  top: 0px;
+  left: 366.2067565917969px;
+  width: 264px;
+  height: 411px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-valo1 {
+  top: 336.0575866699219px;
+  left: 6.2200727462768555px;
+  width: 69px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-valoname1 {
+  top: 7.099808216094971px;
+  left: 40.43047332763672px;
+  width: 326px;
+  height: 170px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-text29 {
+  top: 134.89634704589844px;
+  left: 40.43047332763672px;
+  color: rgba(255, 255, 255, 1);
+  width: 329px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text31 {
+  top: 258.7485656738281px;
+  left: 50.538089752197266px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-boton-irabutton4 {
+  top: 286.3589172363281px;
+  left: 40.43047332763672px;
+  width: 89px;
+  height: 33.92132568359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-rectangle45 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 89px;
+  height: 34px;
+  margin: auto;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.juegos-text33 {
+  top: 8.6775484085083px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  width: 89px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-lista3 {
+  top: 288.72552490234375px;
+  left: 146.94921875px;
+  width: 150px;
+  height: 28.39923095703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-text35 {
+  top: 7.0998077392578125px;
+  left: 35.76541519165039px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-image213 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-free1 {
+  top: 256.3819580078125px;
+  left: 40.43047332763672px;
+  width: 21px;
+  height: 22.088287353515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-free11 {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 22px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-hogwarts {
+  top: 868px;
+  left: 778px;
+  width: 679px;
+  height: 448px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle46 {
+  top: 0px;
+  left: 0px;
+  width: 643px;
+  height: 356px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.juegos-image1 {
+  top: 6.892307758331299px;
+  left: 23.33333396911621px;
+  width: 397px;
+  height: 124px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-image214 {
+  top: 0px;
+  left: 188.22222900390625px;
+  width: 491px;
+  height: 448px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-lista4 {
+  top: 271.0974426269531px;
+  left: 171.88888549804688px;
+  width: 150px;
+  height: 27.5692138671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-text37 {
+  top: 6.892303466796875px;
+  left: 35.77777862548828px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-image215 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-boton-irabutton5 {
+  top: 268.0341796875px;
+  left: 57.55555725097656px;
+  width: 89px;
+  height: 32.929931640625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-rectangle47 {
+  top: 0px;
+  left: 0px;
+  width: 89px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.juegos-text39 {
+  top: 8.423935890197754px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text41 {
+  top: 151.63076782226562px;
+  left: 57.55555725097656px;
+  color: rgba(255, 255, 255, 1);
+  width: 329px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text46 {
+  top: 147px;
+  color: rgba(255, 0, 0, 1);
+  width: 1512px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Monoton;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-headliner {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 142px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-navlink {
+  display: contents;
+}
+.juegos-shopng-ww1button {
+  top: 54px;
+  left: 1434px;
+  width: 26px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-perfil {
+  top: 55px;
+  left: 1348px;
+  width: 23px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-navlink1 {
+  display: contents;
+}
+.juegos-perfilbutton {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.juegos-baradebusqueda {
+  top: 51px;
+  left: 595px;
+  width: 356px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.juegos-rectangle1input {
+  top: 0px;
+  left: 0px;
+  width: 356px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.juegos-lupng-www2 {
+  top: 12.071428298950195px;
+  left: 18.101694107055664px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.juegos-text51 {
+  top: 11.142857551574707px;
+  left: 45.25423812866211px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Expletus Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text53 {
+  top: 65.00003051757812px;
+  left: 347.37847900390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-text55 {
+  top: 65.00003051757812px;
+  left: 467.8565673828125px;
+  color: rgba(255, 255, 255, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Quantico;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.juegos-logo {
+  top: 0px;
+  left: 0px;
+  width: 229px;
+  height: 142px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
